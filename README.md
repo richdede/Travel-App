@@ -8,7 +8,7 @@
 
   Hilink is a fully responsive travel app ui website, <br />Responsive for all devices, built using Nextjs, Tailwindcss, and Typescript.
 
-  <a href="https://glow-mocha.vercel.app/"><strong>➥ Live Demo</strong></a>
+  <a href="https://travel-app-liart-xi.vercel.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
